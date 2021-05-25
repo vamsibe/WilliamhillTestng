@@ -1,0 +1,37 @@
+{
+  "joinTestUsingDataFromJson": {
+    "dataSet1": {
+      "Title": "mr",
+      "First_Name": "venkat",
+      "Last_Name": "cheru",
+      "Dd": "1",
+      "Mm": "2",
+      "Yy": "1959",
+      "Email": "venkat59@gmail.com",
+      "Mobile": "078923478",
+      "PostCode": "sm6"
+    },
+    "dataSet2": {
+      "Title": "mrs",
+      "First_Name": "mena",
+      "Last_Name": "cheru",
+      "Dd": "15",
+      "Mm": "3",
+      "Yy": "2016",
+      "Email": "menak_16@gmail.com",
+      "Mobile": "0978358625",
+      "PostCode": "sm6"
+    },
+    "dataSet3": {
+      "Title": "mrs",
+      "First_Name": "gobinder",
+      "Last_Name": "bogh",
+      "Dd": "22",
+      "Mm": "4",
+      "Yy": "1955",
+      "Email": "gbhogal_55@gmail.com",
+      "Mobile": "0723462346",
+      "PostCode": "ig1 3sw"
+    }
+  }
+}

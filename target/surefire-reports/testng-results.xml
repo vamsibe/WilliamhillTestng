@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="All Test Suite" duration-ms="17362" started-at="2021-05-18T11:33:56Z" finished-at="2021-05-18T11:34:13Z">
+    <groups>
+    </groups>
+    <test name="Williamhii_Testng_Tdd" duration-ms="17362" started-at="2021-05-18T11:33:56Z" finished-at="2021-05-18T11:34:13Z">
+      <class name="com.wipro.willhills.testcripts.BettingPageTest">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.wipro.willhills.testcripts.BettingPageTest@6276ae34]" name="beforeSuite" is-config="true" duration-ms="239" started-at="2021-05-18T12:33:55Z" finished-at="2021-05-18T12:33:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.wipro.willhills.testcripts.BettingPageTest@6276ae34]" name="setup" is-config="true" duration-ms="3941" started-at="2021-05-18T12:33:56Z" finished-at="2021-05-18T12:34:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.wipro.willhills.testcripts.BettingPageTest@6276ae34]" name="setup" is-config="true" duration-ms="3784" started-at="2021-05-18T12:33:56Z" finished-at="2021-05-18T12:33:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="inItBettingPageTest()[pri:0, instance:com.wipro.willhills.testcripts.BettingPageTest@6276ae34]" name="inItBettingPageTest" is-config="true" duration-ms="178" started-at="2021-05-18T12:33:59Z" finished-at="2021-05-18T12:34:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inItBettingPageTest -->
+        <test-method status="PASS" signature="inItBettingPageTest()[pri:0, instance:com.wipro.willhills.testcripts.BettingPageTest@6276ae34]" name="inItBettingPageTest" is-config="true" duration-ms="21" started-at="2021-05-18T12:34:00Z" finished-at="2021-05-18T12:34:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inItBettingPageTest -->
+        <test-method status="PASS" signature="numberOfLiveGamesPresentIsEqualToHeaderPresent()[pri:0, instance:com.wipro.willhills.testcripts.BettingPageTest@6276ae34]" name="numberOfLiveGamesPresentIsEqualToHeaderPresent" duration-ms="8562" started-at="2021-05-18T12:34:00Z" finished-at="2021-05-18T12:34:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- numberOfLiveGamesPresentIsEqualToHeaderPresent -->
+        <test-method status="PASS" signature="testLoginFunctionalityForBettingPage()[pri:0, instance:com.wipro.willhills.testcripts.BettingPageTest@6276ae34]" name="testLoginFunctionalityForBettingPage" duration-ms="12695" started-at="2021-05-18T12:34:00Z" finished-at="2021-05-18T12:34:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginFunctionalityForBettingPage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.wipro.willhills.testcripts.BettingPageTest@6276ae34]" name="tearDown" is-config="true" duration-ms="717" started-at="2021-05-18T12:34:08Z" finished-at="2021-05-18T12:34:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.wipro.willhills.testcripts.BettingPageTest@6276ae34]" name="tearDown" is-config="true" duration-ms="690" started-at="2021-05-18T12:34:12Z" finished-at="2021-05-18T12:34:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.wipro.willhills.testcripts.BettingPageTest@6276ae34]" name="afterSuite" is-config="true" duration-ms="945" started-at="2021-05-18T12:34:13Z" finished-at="2021-05-18T12:34:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.wipro.willhills.testcripts.BettingPageTest -->
+    </test> <!-- Williamhii_Testng_Tdd -->
+  </suite> <!-- All Test Suite -->
+</testng-results>

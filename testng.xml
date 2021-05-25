@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test thread-count="2" verbose="2" preserve-order="true" name="Williamhii_Testng_Tdd" parallel="methods">
+        <classes>
+            <class name="com.wipro.willhills.testcripts.BettingPageTest"/>
+           <!-- <class name="com.wipro.willhills.testcripts.TestWillamHillsBettingPage"/>-->
+        </classes>
+    </test>
+</suite>
