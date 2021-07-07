@@ -46,7 +46,7 @@ public class BaseTest {
         DriverManager.getDriver().manage().window().maximize();
     }
 
-    @AfterMethod
+    /*@AfterMethod
     public void tearDown(ITestResult result) {
      Driver.quitDriver();
         if (result.getStatus() == ITestResult.FAILURE) {
@@ -57,5 +57,6 @@ public class BaseTest {
                     .setCellData("TestCases", DataUtils.statusColumnIndex, DataUtils.testRowIndex.get(testRowIndexToUpdateStatus), "Passed");
         }
         testRowIndexToUpdateStatus++;
-    }
+    }*/
+
 }
